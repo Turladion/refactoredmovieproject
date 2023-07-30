@@ -41,3 +41,4 @@ Clone the repository from the provided link.
 Open the project folder in your code editor.
 Open 'index.html' in a web browser or use a local development server to preview the application.
 Feel free to provide feedback and suggestions for further improvements!
+License: This project is licensed under the MIT License.
