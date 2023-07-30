@@ -1,0 +1,32 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "title": "Oppenheimer",
+        "showTime": "Tues Aug 1 - 10:00PM",
+        "screen": "4",
+        "row": "F",
+        "seat": "21,21",
+        "imageUrl": "https://resizing.flixster.com/IaXbRF4gIPh9jireK_4VCPNfdKc=/200x0/v2/https://resizing.flixster.com/dV1vfa4w_dB4wzk7A_VzThWUWw8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzEyZDMyYjZmLThmNzAtNDliNC1hMjFmLTA2ZWY4M2UyMjJhMi5qcGc="
+      },
+      {
+        "id": 2,
+        "title": "Barbie",
+        "showTime": "Tues Aug 1 - 10:00PM",
+        "screen": "2",
+        "row": "C",
+        "seat": "8,9",
+        "imageUrl": "https://resizing.flixster.com/IaXbRF4gIPh9jireK_4VCPNfdKc=/200x0/v2/https://flxt.tmsimg.com/assets/p13472534_p_v8_af.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Talk To Me",
+        "showTime": "Tues Aug 1 - 10:00PM",
+        "screen": "7",
+        "row": "A",
+        "seat": "15,17",
+        "imageUrl": "https://resizing.flixster.com/IaXbRF4gIPh9jireK_4VCPNfdKc=/200x0/v2/https://resizing.flixster.com/9WxKriao1BmRamIaqig2k8hd5uM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YyZDQwYTM2LWZmYzEtNGUwMC05NzRkLTA3ODM0NThiNDE4Ny5qcGc="
+      }
+    ]
+  }
+  
